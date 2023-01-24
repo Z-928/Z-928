@@ -7,7 +7,7 @@
 :e-mail: zhao.pengzhan.813@s.kyushu-u.ac.jp
 
 ### Research interests
-:snowman: Quantum computing, Software testing  
+:books: Quantum computing, Software testing  
 🌱 I’m currently learning quantum machine learning...
 
 ### Publications
