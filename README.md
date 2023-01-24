@@ -1,6 +1,6 @@
 ### Hi, I'm Pengzhan Zhao👋
-![Image text](./2.png)
-## Ab
+![Image text](./3.png)
+## About me
 :school: Kyushu University
 <!--
 **Z-928/Z-928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
