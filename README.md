@@ -8,6 +8,9 @@
 ### Research interests
 Quantum programming, Software testing
 
+### Publications
+Zhao, P., Zhao, J., Miao, Z., & Lan, S. (2021, November). Bugs4Q: A benchmark of real bugs for quantum programs. In 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE) (pp. 1373-1376). IEEE.
+
 <!--
 **Z-928/Z-928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
