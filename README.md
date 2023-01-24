@@ -1,7 +1,7 @@
 ### Hi, I'm Pengzhan Zhao👋
 ![Image text](./3.png)
 ## About me
-:school: Kyushu University
+:school: Kyushu University  
 :mailbox: zhao.pengzhan.813@s.kyushu-u.ac.jp
 
 <!--
