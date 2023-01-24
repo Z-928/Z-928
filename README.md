@@ -1,5 +1,5 @@
 ### Hi, I'm Pengzhan Zhao👋
-![Image text](https://github.com/Z-928/Z-928/blob/main/1.png)
+![Image text](./2.png)
 ## Ab
 :school: Kyushu University
 <!--
