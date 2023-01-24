@@ -1,11 +1,11 @@
 ### Hi, I'm Pengzhan Zhao👋
 ![Image text](./3.png)
-### About me
+## About me
 :three: rd year Ph.D. Student  
 :school: Kyushu University  
 :e-mail: zhao.pengzhan.813@s.kyushu-u.ac.jp
 
-#### Research interests
+### Research interests
 Quantum programming, Software testing
 
 <!--
