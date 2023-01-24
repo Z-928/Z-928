@@ -5,7 +5,8 @@
 :school: Kyushu University  
 :e-mail: zhao.pengzhan.813@s.kyushu-u.ac.jp
 
-
+# Research interests
+Quantum programming, Software testing
 
 <!--
 **Z-928/Z-928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
