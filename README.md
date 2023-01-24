@@ -2,7 +2,8 @@
 ![Image text](./3.png)
 ## About me
 :school: Kyushu University  
-:mailbox: zhao.pengzhan.813@s.kyushu-u.ac.jp
+::e-mail:: zhao.pengzhan.813@s.kyushu-u.ac.jp
+
 
 <!--
 **Z-928/Z-928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
