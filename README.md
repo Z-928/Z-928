@@ -7,8 +7,9 @@
 :e-mail: zhao.pengzhan.813@s.kyushu-u.ac.jp
 
 ### Research interests
-:snowman: Quantum computing, Software testing
+:snowman: Quantum computing, Software testing  
 🌱 I’m currently learning quantum machine learning...
+
 ### Publications
 
 [:link:](https://ieeexplore.ieee.org/abstract/document/9474564) Zhao, P., Zhao, J., and Ma, L. (2021, June). Identifying bug patterns in quantum programs. In 2021 IEEE/ACM 2nd International Workshop on Quantum Software Engineering (Q-SE) (pp. 16-21). IEEE.  
