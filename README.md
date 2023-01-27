@@ -17,6 +17,7 @@
 [:link:](https://ieeexplore.ieee.org/abstract/document/9678908) Zhao, P., Zhao, J., Miao, Z., and Lan, S. (2021, November). Bugs4Q: A benchmark of real bugs for quantum programs. In 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE) (pp. 1373-1376). IEEE.
 
 [:link:](https://www.computer.org/csdl/proceedings-article/saner/2022/378600b239/1FbT6n3hGaA) J. Luo, P. Zhao, Z. Miao, S. Lan and J. Zhao, "A Comprehensive Study of Bug Fixes in Quantum Programs," in 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Honolulu, HI, USA, 2022 pp. 1239-1246.
+
 <!--
 **Z-928/Z-928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Education
+:necktie: PhD Student at Kyushu University, supervised by [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/)
+:mortar_board: M.S. Degree from Hebei Normal University, supervised by Prof. Jinghong Wang
