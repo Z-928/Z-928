@@ -12,8 +12,8 @@
 
 ### Publications
 
-Zhao Pengzhan, Wu Xiongfei, Li Zhuo, Zhao Jianjun. QChecker: Detecting Bugs in Quantum Programs via Static Analysis.
-The 4th International Workshop on Quantum Software Engineering (Q-SE 2023). Melbourne, Australia. May 14, 2023.
+Zhao, P.,  Wu, X., Li, Z., Zhao, J. (2023, May). QChecker: Detecting Bugs in Quantum Programs via Static Analysis.
+The 4th International Workshop on Quantum Software Engineering (Q-SE 2023).
 
 [:link:](https://ieeexplore.ieee.org/abstract/document/9474564) Zhao, P., Zhao, J., and Ma, L. (2021, June). Identifying bug patterns in quantum programs. In 2021 IEEE/ACM 2nd International Workshop on Quantum Software Engineering (Q-SE) (pp. 16-21). IEEE.  
 
