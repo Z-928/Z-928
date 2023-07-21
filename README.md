@@ -12,14 +12,14 @@
 
 ### Publications
 
-Zhao, P.,  Wu, X., Li, Z., Zhao, J. (2023, May). QChecker: Detecting Bugs in Quantum Programs via Static Analysis.
-The 4th International Workshop on Quantum Software Engineering (Q-SE 2023).
+[:link:](https://arxiv.org/abs/2304.04387)Zhao, P.,  Wu, X., Li, Z., Zhao, J. (2023, May). QChecker: Detecting Bugs in Quantum Programs via Static Analysis.
+The 4th International Workshop on Quantum Software Engineering (Q-SE 2023) (pp. 50-57).
 
-[:link:](https://ieeexplore.ieee.org/abstract/document/9474564) Zhao, P., Zhao, J., and Ma, L. (2021, June). Identifying bug patterns in quantum programs. In 2021 IEEE/ACM 2nd International Workshop on Quantum Software Engineering (Q-SE) (pp. 16-21). IEEE.  
+[:link:](https://ieeexplore.ieee.org/abstract/document/9474564) Zhao, P., Zhao, J., and Ma, L. (2021, June). Identifying bug patterns in quantum programs. In 2021 IEEE/ACM 2nd International Workshop on Quantum Software Engineering (Q-SE 2021) (pp. 16-21). IEEE.  
 
-[:link:](https://ieeexplore.ieee.org/abstract/document/9678908) Zhao, P., Zhao, J., Miao, Z., and Lan, S. (2021, November). Bugs4Q: A benchmark of real bugs for quantum programs. In 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE) (pp. 1373-1376). IEEE.
+[:link:](https://ieeexplore.ieee.org/abstract/document/9678908) Zhao, P., Zhao, J., Miao, Z., and Lan, S. (2021, November). Bugs4Q: A benchmark of real bugs for quantum programs. In 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021) (pp. 1373-1376). IEEE.
 
-[:link:](https://www.computer.org/csdl/proceedings-article/saner/2022/378600b239/1FbT6n3hGaA) J. Luo, P. Zhao, Z. Miao, S. Lan and J. Zhao, "A Comprehensive Study of Bug Fixes in Quantum Programs," in 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Honolulu, HI, USA, 2022 pp. 1239-1246.
+[:link:](https://www.computer.org/csdl/proceedings-article/saner/2022/378600b239/1FbT6n3hGaA) J. Luo, P. Zhao, Z. Miao, S. Lan and J. Zhao, "A Comprehensive Study of Bug Fixes in Quantum Programs," in 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (Q-SANER 2022), Honolulu, HI, USA, 2022 (pp. 1239-1246).
 
 <!--
 **Z-928/Z-928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
