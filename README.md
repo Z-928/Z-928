@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Education
-:necktie: PhD Student at Kyushu University, supervised by [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/)  
+:necktie: Ph.D. Student at Kyushu University, supervised by [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/)  
 :mortar_board: M.S. Degree from Hebei Normal University, supervised by Prof. Jinghong Wang
