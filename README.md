@@ -12,8 +12,8 @@
 
 ### Publications
 
-[:link:](https://arxiv.org/abs/2306.06369) Zhao, P.,  Wu, X., Luo, J., Li, Z., Zhao, J. (2023, May). An Empirical Study of Bugs in Quantum Machine Learning Frameworks.
-The IEEE International Conference on Quantum Software (QSW 2023) (pp. 68-75).
+[:link:](https://arxiv.org/abs/2306.06369) Zhao, P.,  Wu, X., Luo, J., Li, Z., Zhao, J. (2023, July). An Empirical Study of Bugs in Quantum Machine Learning Frameworks.
+Best student paper  of the IEEE International Conference on Quantum Software (QSW 2023) (pp. 68-75).
 
 [:link:](https://arxiv.org/abs/2304.04387) Zhao, P.,  Wu, X., Li, Z., Zhao, J. (2023, May). QChecker: Detecting Bugs in Quantum Programs via Static Analysis.
 The 4th International Workshop on Quantum Software Engineering (Q-SE 2023) (pp. 50-57).
