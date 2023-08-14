@@ -12,6 +12,9 @@
 
 ### Publications
 
+[:link:](https://authors.elsevier.com/c/1hWfxbKHpCdUL) Zhao, P., Miao, Z., and Lan, S., Zhao, J. Bugs4Q: A benchmark of existing bugs to enable controlled testing and debugging studies for quantum programs,
+Journal of Systems and Software, Volume 205, 2023, 111805, ISSN 0164-1212.
+
 [:link:](https://arxiv.org/abs/2306.06369) Zhao, P.,  Wu, X., Luo, J., Li, Z., Zhao, J. (2023, July). An Empirical Study of Bugs in Quantum Machine Learning Frameworks.
 Best student paper  of the IEEE International Conference on Quantum Software (QSW 2023) (pp. 68-75).
 
