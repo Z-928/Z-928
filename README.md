@@ -4,7 +4,6 @@
 ## About me
 :three: rd year Ph.D. Student  
 :school: Kyushu University  
-:e-mail: zpz2393247079@gmail/hotmail.com
 
 ### Research interests
 :books: Quantum computing, Software testing  
