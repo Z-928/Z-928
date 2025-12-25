@@ -2,12 +2,11 @@
 👋 Welcome~!
 ![Image text](./3.png)
 ## About me
-:three: rd year Ph.D. Student  
-:school: Kyushu University  
+🌱:Lecturer
+:school: Hebei Normal University  
 
 ### Research interests
-:books: Quantum computing, Software testing  
-🌱 I’m currently learning quantum machine learning...
+:books: Quantum Computing, Software Testing, Quantum Machine Learning
 
 ### Publications
 
@@ -41,5 +40,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Education
-:necktie: Ph.D. Student at Kyushu University, supervised by [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/)  
+:necktie: Ph.D. Degree from Kyushu University, supervised by [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/)  
 :mortar_board: M.S. Degree from Hebei Normal University, supervised by Prof. Jinghong Wang
