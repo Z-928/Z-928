@@ -2,7 +2,7 @@
 👋 Welcome~!
 ![Image text](./3.png)
 ## About me
-🌱:Lecturer
+🌱:Lecturer  
 :school: Hebei Normal University  
 
 ### Research interests
