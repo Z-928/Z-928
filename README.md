@@ -27,7 +27,7 @@ The 4th International Workshop on Quantum Software Engineering (Q-SE 2023) (pp. 
 
 [:link:](https://dl.acm.org/doi/abs/10.1145/3643667.3648223) X. Guo, J. Zhao, P. Zhao, (2024, April). On repairing quantum programs using ChatGPT. In Proceedings of the 5th ACM/IEEE International Workshop on Quantum Software Engineering (pp. 9-16).
 
-[:link:](https://kyushu-u.elsevierpure.com/en/publications/improving-adversarial-training-for-two-player-competitive-games-v/) S. Chen, F. Zhang, Z. Li, X. Wu, J. Chen, P. Zhao & J. Zhao   (2024, April). Improving Adversarial Training for Two-player Competitive Games via Episodic Reward Engineering. Transactions on Machine Learning Research, 2025.
+[:link:](https://kyushu-u.elsevierpure.com/en/publications/improving-adversarial-training-for-two-player-competitive-games-v/) S. Chen, F. Zhang, Z. Li, X. Wu, J. Chen, P. Zhao & J. Zhao. Improving Adversarial Training for Two-player Competitive Games via Episodic Reward Engineering. Transactions on Machine Learning Research, 2025.
 
 [:link:](https://www.sciencedirect.com/science/article/abs/pii/S0950584924001150) Liu, W., Yue, Y., Chen, X., Gu, Q., Zhao, P., Liu, X., & Zhao, J. (2024). SeDPGK: Semi-supervised software defect prediction with graph representation learning and knowledge distillation. Information and Software Technology, 174, 107510.
 
