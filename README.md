@@ -25,6 +25,10 @@ The 4th International Workshop on Quantum Software Engineering (Q-SE 2023) (pp. 
 
 [:link:](https://www.computer.org/csdl/proceedings-article/saner/2022/378600b239/1FbT6n3hGaA) J. Luo, P. Zhao, Z. Miao, S. Lan and J. Zhao, "A Comprehensive Study of Bug Fixes in Quantum Programs," in 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (Q-SANER 2022), Honolulu, HI, USA, 2022 (pp. 1239-1246).
 
+[:link:](https://dl.acm.org/doi/abs/10.1145/3643667.3648223) X. Guo, J. Zhao, P. Zhao, (2024, April). On repairing quantum programs using ChatGPT. In Proceedings of the 5th ACM/IEEE International Workshop on Quantum Software Engineering (pp. 9-16).
+
+[:link:](https://kyushu-u.elsevierpure.com/en/publications/improving-adversarial-training-for-two-player-competitive-games-v/) S. Chen, F. Zhang, Z. Li, X. Wu, J. Chen, P. Zhao & J. Zhao   (2024, April). Improving Adversarial Training for Two-player Competitive Games via Episodic Reward Engineering. Transactions on Machine Learning Research, 2025.
+
 <!--
 **Z-928/Z-928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
